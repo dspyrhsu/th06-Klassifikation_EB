@@ -1,0 +1,1 @@
+# th06-Sensordaten_Klassifikation
