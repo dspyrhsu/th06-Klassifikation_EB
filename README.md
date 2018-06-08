@@ -1,1 +1,1 @@
-# th06-Sensordaten_Klassifikation
+# th06-Klassifikation_EB
