@@ -1,0 +1,15 @@
+Fall;Verspaetung;Kunde;Posten;Ruecksendung;Neubestellung
+1;lang;M;einzel;nein;nein
+2;lang;M;einzel;ja;nein
+3;keine;M;einzel;nein;ja
+4;kurz;F;einzel;nein;ja
+5;kurz;U;mehrere;nein;ja
+6;kurz;U;mehrere;ja;nein
+7;keine;U;mehrere;ja;ja
+8;lang;F;einzel;nein;nein
+9;lang;U;mehrere;nein;ja
+10;kurz;F;mehrere;nein;ja
+11;lang;F;mehrere;ja;ja
+12;keine;F;einzel;ja;ja
+13;keine;M;mehrere;nein;ja
+14;kurz;F;einzel;ja;nein
